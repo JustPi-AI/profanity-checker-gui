@@ -13,7 +13,7 @@
 ```
 profanity-checker-gui/
 │
-├── codedoan.py              # File chính: xử lý và hiển thị GUI
+├── 2174802010361_MacDuyPhuc_XLNNTN_nhom14.py              # File chính: xử lý và hiển thị GUI
 ├── profanity.csv            # Danh sách từ tục tĩu (1 từ mỗi dòng)
 └── README.md                # Tài liệu giới thiệu dự án
 ```
