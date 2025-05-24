@@ -42,9 +42,9 @@ python codedoan.py
 Ví dụ:
 
 ```
-bậy
-tục
-chửi
+fuck
+motherfukr
+assbag
 ```
 
 ## 🧠 Công nghệ sử dụng
