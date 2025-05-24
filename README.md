@@ -42,9 +42,7 @@ python 2174802010361_MacDuyPhuc_XLNNTN_nhom14.py
 Ví dụ:
 
 ```
-fuck
-motherfukr
-assbag
+Các từ bậy, chửi tục (eng)
 ```
 
 ## 🧠 Công nghệ sử dụng
