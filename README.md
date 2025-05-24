@@ -29,7 +29,7 @@ pip install pandas nltk
 ### 2. Chạy chương trình
 
 ```bash
-python codedoan.py
+python 2174802010361_MacDuyPhuc_XLNNTN_nhom14.py 
 ```
 
 > ⚠️ Lưu ý: Lần đầu chạy, ứng dụng sẽ tự động tải các tài nguyên NLTK như `punkt`.
